@@ -10,7 +10,7 @@ def replace_latex_delimiters(text):
     return text
 
 # Create a text input area for user to enter text
-input_text = st.text_area("Enter your text with LaTeX expressions", height=400)
+input_text = st.text_area("Paste OpenAI-API-generated content with LaTeX expressions here:", height=400)
 
 # If the user provides input, process and display it
 if input_text:
