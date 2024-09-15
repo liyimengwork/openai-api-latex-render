@@ -1,4 +1,4 @@
-# LaTeX Delimiter Converter and Renderer
+# OpenAI API LaTeX Renderer
 
 ![App Demo](image/app_demo.png)
 
