@@ -43,12 +43,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ### Install Dependencies
 
 ```bash
-pip install -r requirements.txt
-```
-
-*If `requirements.txt` is not provided, you can install Streamlit directly:*
-
-```bash
 pip install streamlit
 ```
 
