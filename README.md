@@ -1,6 +1,6 @@
 # LaTeX Delimiter Converter and Renderer
 
-![Streamlit Logo](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png)
+![App Demo](image/app_demo.png)
 
 A simple Streamlit application designed to convert non-standard LaTeX delimiters from OpenAI API outputs to standard LaTeX symbols, enabling accurate rendering of mathematical formulas alongside markdown content.
 
