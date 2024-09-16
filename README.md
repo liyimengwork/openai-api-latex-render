@@ -26,20 +26,6 @@ A simple Streamlit application designed to convert non-standard LaTeX delimiters
 - [Python 3.7+](https://www.python.org/downloads/)
 - [pip](https://pip.pypa.io/en/stable/installation/)
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/latex-delimiter-converter.git
-cd latex-delimiter-converter
-```
-
-### Create a Virtual Environment (Optional but Recommended)
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
 ### Install Dependencies
 
 ```bash
