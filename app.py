@@ -3,8 +3,8 @@ import re
 
 # Function to replace LaTeX delimiters
 def replace_latex_delimiters(text):
-    # Replace display math delimiters \[...\] with $$...$$
-    text = re.sub(r'\\\[(.*?)\\\]', r'$$\1$$', text, flags=re.DOTALL)
+    # Replace inline math delimiters \(...\) with \[...\]
+    text = re.sub(r'\\\((.*?)\\\)', r'\\[\1\\]', text, flags=re.DOTALL)
     # Replace inline math delimiters \(...\) with $...$
     text = re.sub(r'\\\((.*?)\\\)', r'$\1$', text, flags=re.DOTALL)
     return text
