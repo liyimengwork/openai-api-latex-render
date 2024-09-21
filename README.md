@@ -2,7 +2,7 @@
 
 ![App Demo](image/app_demo.png)
 
-A simple Streamlit application designed to convert non-standard LaTeX delimiters from OpenAI API outputs to standard LaTeX symbols, enabling accurate rendering of mathematical formulas alongside markdown content.
+A simple Streamlit application designed to convert non-standard LaTeX delimiters from OpenAI API outputs to standard LaTeX symbols, enabling accurate rendering of math formulas alongside markdown content.
 
 ## Table of Contents
 
